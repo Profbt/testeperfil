@@ -1,18 +1,26 @@
-# Sobre mim
+# ⌨️ xxxxxxx
 
+> `estudante` | `dev em formação` | `estado do paraná`
 
-- 👋 Olá me chamo XXXXXXXXX, sou aluno da rede Estadual do Paraná.
-- 👀 Estou interessado em aprender novas linguagens de programação e aprimorar o conhecimento na área.
-- 🌱 Atualmente estou cursando
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-👉 Atualmente em sala estamos estudando
-![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+## $ whoami
 
-Qualquer dúvida entre em contato
-<a href="mailto:XXXXXXX@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+Estudante da rede pública do Paraná, focado em aprender linguagens de programação e construir uma base sólida em desenvolvimento web.
 
-![](https://media1.tenor.com/m/JkMGlrjiG_cAAAAC/awesome-youre-awesome.gif)
+---
+
+## 🔧 tech stack
+
+![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Scratch](https://img.shields.io/badge/Scratch-0a0a0a?style=flat-square&logo=scratch&logoColor=4D97FF)
+![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 📫 contato
+
+```bash
+$ mail xxxxxxx@escola.pr.gov.br
