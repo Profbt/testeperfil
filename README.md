@@ -1,26 +1,22 @@
-# ⌨️ xxxxxxx
-
-> `estudante` | `dev em formação` | `estado do paraná`
-
----
-
-## $ whoami
-
-Estudante da rede pública do Paraná, focado em aprender linguagens de programação e construir uma base sólida em desenvolvimento web.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=xxxxxxxx;estudante+%7C+dev+em+forma%C3%A7%C3%A3o" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🔧 tech stack
-
-![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Scratch](https://img.shields.io/badge/Scratch-0a0a0a?style=flat-square&logo=scratch&logoColor=4D97FF)
-![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=white)
-
----
-
-## 📫 contato
+## <span style="font-weight:300; color:#aaa;">❯</span> `whoami`
 
 ```bash
-$ mail xxxxxxx@escola.pr.gov.br
+➜  ~/profile cat about.md
+Estudante da rede pública do Paraná.
+Foco em aprender linguagens e construir uma base sólida em desenvolvimento web.
+Minimalista por natureza, técnico por escolha.
+
+<span style="font-weight:300; color:#aaa;">❯</span> tech stack
+bash
+➜  ~/profile ls -l tech/
+<tr> <tr> <td align="center"><b>front‑end</b></td> <td align="center"><b>em sala</b></td> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=html,css" /><br> HTML5 · CSS3 </td> <td align="center"> <img src="https://skillicons.dev/icons?i=js,github,scratch" /><br> JavaScript · GitHub · Scratch </td> </tr> </table>
+<span style="font-weight:300; color:#aaa;">❯</span> contato
+bash
+➜  ~/profile mail --to xxxxxxx@escola.pr.gov.br
+<a href="mailto:xxxxxxx@escola.pr.gov.br" style="text-decoration:none;"> <img src="https://img.shields.io/badge/-enviar%20mensagem-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a&color=333333" /> </a>
