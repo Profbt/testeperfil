@@ -8,15 +8,3 @@
 
 ```bash
 ➜  ~/profile cat about.md
-Estudante da rede pública do Paraná.
-Foco em aprender linguagens e construir uma base sólida em desenvolvimento web.
-Minimalista por natureza, técnico por escolha.
-
-<span style="font-weight:300; color:#aaa;">❯</span> tech stack
-bash
-➜  ~/profile ls -l tech/
-<tr> <tr> <td align="center"><b>front‑end</b></td> <td align="center"><b>em sala</b></td> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=html,css" /><br> HTML5 · CSS3 </td> <td align="center"> <img src="https://skillicons.dev/icons?i=js,github,scratch" /><br> JavaScript · GitHub · Scratch </td> </tr> </table>
-<span style="font-weight:300; color:#aaa;">❯</span> contato
-bash
-➜  ~/profile mail --to xxxxxxx@escola.pr.gov.br
-<a href="mailto:xxxxxxx@escola.pr.gov.br" style="text-decoration:none;"> <img src="https://img.shields.io/badge/-enviar%20mensagem-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a&color=333333" /> </a>
